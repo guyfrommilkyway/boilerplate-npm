@@ -6,7 +6,8 @@
 		"backend",
 		"node.js",
 		"npm",
-		"render"
+		"render",
+		"freecodecamp"
 	],
 	"license": "MIT",
 	"version": "1.2.0",
