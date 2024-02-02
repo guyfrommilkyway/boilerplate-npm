@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Almer Tampus",
+	"description": "A project for freeCodeCamp Backend development and APIs Certification",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
